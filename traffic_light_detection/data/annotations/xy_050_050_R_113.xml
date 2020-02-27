@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>xy_050_050_R_113.jpg</filename>
+	<path>/Users/JoseCLee/Work/NYP/ITI110/ITI110_Project/tfod/data/images/xy_050_050_R_113.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>59</ymin>
+			<xmax>218</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>
